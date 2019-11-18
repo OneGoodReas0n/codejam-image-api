@@ -86,6 +86,61 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./assets/icons/exchange-alt.svg":
+/*!***************************************!*\
+  !*** ./assets/icons/exchange-alt.svg ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"assets/f8b2ec1e5fa4677293406fb3bb51440e.svg\";\n\n//# sourceURL=webpack:///./assets/icons/exchange-alt.svg?");
+
+/***/ }),
+
+/***/ "./assets/icons/eye-dropper.svg":
+/*!**************************************!*\
+  !*** ./assets/icons/eye-dropper.svg ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"assets/e3eaa89e8851e3d94ad7402a2c7577fc.svg\";\n\n//# sourceURL=webpack:///./assets/icons/eye-dropper.svg?");
+
+/***/ }),
+
+/***/ "./assets/icons/fill-drip.svg":
+/*!************************************!*\
+  !*** ./assets/icons/fill-drip.svg ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"assets/1029238d30723d537adf2d3b279baed4.svg\";\n\n//# sourceURL=webpack:///./assets/icons/fill-drip.svg?");
+
+/***/ }),
+
+/***/ "./assets/icons/pencil.svg":
+/*!*********************************!*\
+  !*** ./assets/icons/pencil.svg ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"assets/2755e180b7ddcca3dce55a543d285e0c.svg\";\n\n//# sourceURL=webpack:///./assets/icons/pencil.svg?");
+
+/***/ }),
+
+/***/ "./assets/icons/search-icon.svg":
+/*!**************************************!*\
+  !*** ./assets/icons/search-icon.svg ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"assets/6c51593230285bd09de04e850f7891cf.svg\";\n\n//# sourceURL=webpack:///./assets/icons/search-icon.svg?");
+
+/***/ }),
+
 /***/ "./functional/Palette.ts":
 /*!*******************************!*\
   !*** ./functional/Palette.ts ***!
@@ -142,7 +197,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.scss */ \"./style.scss\");\n/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _functional_Palette__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./functional/Palette */ \"./functional/Palette.ts\");\n\r\n\r\nwindow.onload = function () {\r\n    var canvas = document.getElementById('canvas');\r\n    var ctx = canvas.getContext('2d');\r\n    var palette = new _functional_Palette__WEBPACK_IMPORTED_MODULE_1__[\"default\"](ctx);\r\n    palette.init();\r\n};\r\n\n\n//# sourceURL=webpack:///./index.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.scss */ \"./style.scss\");\n/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_0__);\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module './assets/icons/arrow-alt.svg'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n/* harmony import */ var _assets_icons_exchange_alt_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/icons/exchange-alt.svg */ \"./assets/icons/exchange-alt.svg\");\n/* harmony import */ var _assets_icons_exchange_alt_svg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_assets_icons_exchange_alt_svg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _assets_icons_eye_dropper_svg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./assets/icons/eye-dropper.svg */ \"./assets/icons/eye-dropper.svg\");\n/* harmony import */ var _assets_icons_eye_dropper_svg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_icons_eye_dropper_svg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _assets_icons_fill_drip_svg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./assets/icons/fill-drip.svg */ \"./assets/icons/fill-drip.svg\");\n/* harmony import */ var _assets_icons_fill_drip_svg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_assets_icons_fill_drip_svg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _assets_icons_pencil_svg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/icons/pencil.svg */ \"./assets/icons/pencil.svg\");\n/* harmony import */ var _assets_icons_pencil_svg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_icons_pencil_svg__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _assets_icons_search_icon_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./assets/icons/search-icon.svg */ \"./assets/icons/search-icon.svg\");\n/* harmony import */ var _assets_icons_search_icon_svg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_assets_icons_search_icon_svg__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _functional_Palette__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./functional/Palette */ \"./functional/Palette.ts\");\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nwindow.onload = function () {\r\n    var canvas = document.getElementById('canvas');\r\n    var ctx = canvas.getContext('2d');\r\n    var palette = new _functional_Palette__WEBPACK_IMPORTED_MODULE_7__[\"default\"](ctx);\r\n    palette.init();\r\n};\r\n\n\n//# sourceURL=webpack:///./index.ts?");
 
 /***/ }),
 
